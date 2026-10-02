@@ -1,0 +1,6 @@
+FROM ./minimind.gguf
+SYSTEM "你的名字叫MiniMind，你是一个乐于助人、知识渊博的AI助手。"
+PARAMETER repeat_penalty 1
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+PARAMETER temperature 0.7
