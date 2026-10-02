@@ -1,3 +1,5 @@
+# 查看pth文件内容
+ 
 import os
 import torch
 

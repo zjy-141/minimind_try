@@ -1,3 +1,5 @@
+# 从过大数据中采样
+
 import random
 
 INPUT = r"D:\01_Project\project\2026-project17\minimind\dataset\sft_t2t_mini_full.jsonl"

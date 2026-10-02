@@ -1,3 +1,5 @@
+# 查看pth文件内容
+
 import torch
 import numpy as np
 
