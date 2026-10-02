@@ -2,7 +2,7 @@ import random
 
 INPUT = r"D:\01_Project\project\2026-project17\minimind\dataset\sft_t2t_mini_full.jsonl"
 OUTPUT = r"D:\01_Project\project\2026-project17\minimind\dataset\sft_t2t_mini.jsonl"
-TARGET = 200000
+TARGET = 50000
 TOTAL = 6820506  # 你的 LCCC 全量条数
 
 p = TARGET / TOTAL
